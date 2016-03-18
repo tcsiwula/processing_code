@@ -1,0 +1,10 @@
+Tim Siwula's Final Game ( Dr Typer) Description!
+
+My progress has been slow.
+Most of my time was consumed by getting the string of text to allign
+correctly with the typed and untyped, two different strings.
+
+My plans is to finish adding the character animation while typing and
+add additional levels and typing responses.
+
+Adding the music response was easy!
